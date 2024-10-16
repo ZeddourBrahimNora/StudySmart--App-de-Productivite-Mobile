@@ -1,5 +1,5 @@
 # StudySmart--App-de-Productivite-Mobile
-StudySmart est une application mobile multiplateforme développée en React Native et utilisant Expo. Elle aide les étudiants à mieux gérer leur temps et leurs tâches grâce à un calendrier intégré et une fonctionnalité Pomodoro.
+StudySmart est une application mobile multiplateforme développée en React Native et utilisant Expo. Elle aide les étudiants à mieux gérer leur temps et leurs tâches grâce à un calendrier intégré et une fonctionnalité de Pomodoro.
 
 # Fonctionnalités
 1. Calendrier
